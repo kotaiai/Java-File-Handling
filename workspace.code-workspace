@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\CPP\\vsc test stack"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"maven.view": "flat"
+	}
+}
